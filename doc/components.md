@@ -16,4 +16,4 @@ class Welcome extends React.Component {
 
 Components are the fundemental unit of a React application. The only method you must define in a React.Component subclass is called render().  All the other methods are optional.
 
-Each Component represents an elemenet in the DOM.  The 
+Each Component corresponds to an element in the DOM.  The Component is responsible for rendering the content of the element and for handling any events that occur within it.  Components can be nested inside of other components.  This is what it is meant by composing components and is a powerful technique for achieving reuse. 
